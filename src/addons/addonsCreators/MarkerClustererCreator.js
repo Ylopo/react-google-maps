@@ -69,7 +69,7 @@ export const markerClustererEventPropTypes = eventPropTypes;
   updaters: markerClustererUpdaters,
 })
 export default class MarkerClustererCreator extends Component {
-  static PropTypes = {
+  static propTypes = {
     mapHolderRef: PropTypes.instanceOf(GoogleMapHolder).isRequired,
     markerClusterer: PropTypes.object.isRequired,
   }
