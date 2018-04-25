@@ -1,8 +1,5 @@
-import {
-  default as React,
-  PropTypes,
-  Component,
-} from "react";
+import PropTypes from 'prop-types';
+import { default as React, Component } from "react";
 
 import { default as DrawingManagerEventList } from "../eventLists/DrawingManagerEventList";
 import { default as eventHandlerCreator } from "../utils/eventHandlerCreator";

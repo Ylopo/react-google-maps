@@ -1,9 +1,5 @@
-import {
-  default as React,
-  PropTypes,
-  Component,
-  Children,
-} from "react";
+import PropTypes from 'prop-types';
+import { default as React, Component, Children } from "react";
 
 import { default as SkeletonEventList } from "../eventLists/SkeletonEventList";
 import { default as eventHandlerCreator } from "../utils/eventHandlerCreator";

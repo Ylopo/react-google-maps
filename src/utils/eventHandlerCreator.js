@@ -1,4 +1,4 @@
-import { PropTypes } from "react";
+import PropTypes from 'prop-types';
 
 function groupToUpperCase(match, group) {
   return group.toUpperCase();

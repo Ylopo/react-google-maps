@@ -2,9 +2,7 @@ import {
   format as formatUrlObj,
 } from "url";
 
-import {
-  PropTypes,
-} from "react";
+import PropTypes from 'prop-types';
 
 import {
   default as isEqual,
