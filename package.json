@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomchentw/react-google-maps"
+    "url": "https://github.com/ryanmaw/react-google-maps.git"
   },
   "keywords": [
     "React.js",
