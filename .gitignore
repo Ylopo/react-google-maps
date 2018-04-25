@@ -45,3 +45,5 @@ public/**/assets
 public/**/*.html
 public/*.gz
 tmp/*
+
+.node-version
