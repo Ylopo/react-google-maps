@@ -86,12 +86,12 @@
     "invariant": "^2.1.1",
     "lodash.isequal": "^3.0.4",
     "marker-clusterer-plus": "^2.1.4",
-    "react-prop-types-element-of-type": "^2.1.0",
+    "react-prop-types-element-of-type": "git+https://github.com/ryanmaw/react-prop-types-element-of-type.git",
     "scriptjs": "^2.5.8",
     "warning": "^2.1.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
   }
 }
