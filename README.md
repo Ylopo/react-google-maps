@@ -1,3 +1,8 @@
+# DEPRECATED
+
+As of December 2021, we're phasing out use of this repo
+
+
 # react-google-maps
 > React.js Google Maps integration component
 
